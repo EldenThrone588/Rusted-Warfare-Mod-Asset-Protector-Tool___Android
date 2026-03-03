@@ -23,28 +23,14 @@
 
 ## **What Will Happen Next**
 
-- I'll acknowledge your issue report within 48 hours
-- I'll investigate and confirm the issue
+- I'll acknowledge your issue report within No-work period.
+- I'll investigate and confirm the issue.
 - If its a valid issue, then I'll work on a immediate fix.
 - You'll be credited (if you want) when the fix is released.
-
-## **IMPORTANT**
-
-**This tool's protection strength relies on keeping its methods private.**
-
-- **Public disclosure** of vulnerabilities helps mod thieves, not users
-- **Responsible disclosure** helps everyone stay protected
-- **Bug bounties:** Currently not offered (small indie developer)
 
 ## **NOTE**
 
 - **Note:** I dont held accountable for any tool feature abuse. As i may please, avoid abusive behavior for this tool. Thank you.
 
-## **Safe Harbor**
 
-**I will not take** legal action against researchers who:
-- Follow this disclosure policy.
-- Don't exploit vulnerabilities for malicious purposes.
-- Don't publicly disclose until fixed.
-
-Thank you for helping keep RW Mod Protector safe! 🔒
+Thank you for helping to keep my RW Mod Protector Tool safe!
