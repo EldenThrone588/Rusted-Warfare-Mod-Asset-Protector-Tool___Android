@@ -69,4 +69,4 @@ As a result:
 *   Developed with assistance from **Deepseek**.
 
 ---
-**Made with ❤️ by smallbutbigsizeofbug**
+**Made with ❤️ by smallbutbigsizeofbug**, **Uploaded by EldenThrone558(aka smallbutbig) in github.**
