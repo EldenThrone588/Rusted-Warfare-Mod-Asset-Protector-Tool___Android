@@ -1,7 +1,7 @@
 # Rusted-Warfare-Mod-Asset-Protector-Tool___Android
 RW Mod Protector Tool is a tool which can help you *PROTECT* your mod assets. This is built for Android. Smooth and simple GUI for the modders. Your welcome here Rusted Warfare Modders!
 
-[![Downloads](https://img.shields.io/github/downloads/EldenThrone588/RW-Mod-Protector/total)](https://github.com/YOUR_USERNAME/RW-Mod-Protector/releases)
+[![Downloads](https://img.shields.io/github/downloads/EldenThrone588/RW-Mod-Protector/total)](https://github.com/EldenThrone588/RW-Mod-Protector/releases)
 [![Itch.io](https://img.shields.io/badge/Download-Itch.io-FF2442)](https://smallbutbigsizeofbug.itch.io/androidrusted-warfare-encryptor-tool)
 
 **The most advanced, unbreakable mod protection tool for Rusted Warfare on Android.**  
@@ -33,8 +33,6 @@ Our **experimental protection mode** applies a chain of irreversible transformat
 *   ✅ **The game loads the mod perfectly.**
 *   ❌ **Extractors get garbage.** (Images are broken, audio is silent, text files are gibberish).
 *   ✅ **Proven on Android 15** – Passes the strictest ZIP parser with zero errors.
-
-> *"even if an attacker gets the source code, its impossible? oh so like not bringing the key and left it inside"* – That's exactly right. The "key" is how the game itself reads the data.
 
 ### ⚙️ Protection Modes
 | Mode | Files Protected | Use Case |
