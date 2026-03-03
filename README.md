@@ -24,7 +24,7 @@ Protect your hours of hard work from thieves with a single tap.
 ### 📸 Screenshots
 | Main Menu | Protection Terminal | Settings |
 |:---------:|:-------------------:|:--------:|
-| ![Main UI](SCREENSHOTS/main_ui.jpg) | ![Terminal](SCREENSHOTS/terminal.png) | ![Settings](SCREENSHOTS/settings.jpg) |
+| ![Main UI](SCREENSHOTS/main_ui.jpg) | ![Terminal](SCREENSHOTS/terminal.jpg) | ![Settings](SCREENSHOTS/settings.jpg) |
 
 ### 🛡️ Protection That Actually Works
 Most protectors only hide files. **This tool transforms them.**
