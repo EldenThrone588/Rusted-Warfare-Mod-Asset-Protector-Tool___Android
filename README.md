@@ -14,11 +14,11 @@ Protect your hours of hard work from thieves with a single tap.
 
 ### ✨ Features
 *   **Understandable Protection:** Uses a sophisticated obfuscation engine.
-*   **Simple & Fast:** One-tap protection with a live terminal and background notifications. No freezing, even on huge mods.
+*   **Simple & Fast:** One-tap protection with a live terminal for logging and background process in a bonus of real-time notifications. No freezing, even on huge mods, might take time though.
 *   **Asset Mode Selection:** Choose what to protect – **Default** (all files), **Images Only**, or **Images & Music Only**.
-*   **Import to Game:** Automatically import your protected `.rwmod` files into Rusted Warfare's game data.
-*   **Fully Customizable:** Change theme colors, auto-save logs, enable vibration on finish, and more.
-*   **Comprehensive Logging:** Built-in crash, ANR, and app logging for easy debugging.
+*   **Import to Game:** Automatically import your protected `.rwmod` files into Rusted Warfare's game data by using Import Mod to Game feature in this tool.
+*   **Fully Customizable on Settings:** Change theme colors, auto-save logs, enable vibration on finish, enable author attribution, and more.
+*   **Comprehensive Logging:** Built-in crash, ANR, and app logging for easy app debugging for critical events.
 *   **Built for Modders:** Created by a Rusted Warfare modder with 4+ years of experience.
 
 ### 📸 Screenshots
