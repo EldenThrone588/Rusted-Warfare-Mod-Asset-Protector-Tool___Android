@@ -27,9 +27,9 @@ Protect your hours of hard work from thieves with a single tap.
 | ![Main UI](SCREENSHOTS/main_ui.jpg) | ![Terminal](SCREENSHOTS/terminal.jpg) | ![Settings](SCREENSHOTS/settings.jpg) |
 
 ### 🛡️ Protection That Actually Works
-Most protectors only hide files. **This tool transforms them.**
+**Sophisticated Protection.**
 
-Our **experimental protection mode** applies a chain of irreversible transformations to the mod's structure and data. As a result:
+As a result:
 *   ✅ **The game loads the mod perfectly.**
 *   ❌ **Extractors get garbage.** (Images are broken, audio is silent, text files are gibberish).
 *   ✅ **Proven on Android 15** – Passes the strictest ZIP parser with zero errors.
