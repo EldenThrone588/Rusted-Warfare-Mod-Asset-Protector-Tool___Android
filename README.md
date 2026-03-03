@@ -21,7 +21,7 @@ Protect your hours of hard work from thieves with a single tap.
 *   **Import to Game:** Automatically import your protected `.rwmod` files into Rusted Warfare's game data by using Import Mod to Game feature in this tool.
 *   **Fully Customizable on Settings:** Change theme colors, auto-save logs, enable vibration on finish, enable author attribution, and more.
 *   **Comprehensive Logging:** Built-in crash, ANR, and app logging for easy app debugging for critical events.
-*   **Built for Modders:** Created by a Rusted Warfare modder with 4+ years of experience.
+*   **Built for Rusted Warfare Dedicated Modders:** Created by a Rusted Warfare modder with 4+ years of experience(From 2020 until today).
 
 ### 📸 Screenshots
 | Main Menu | Protection Terminal | Settings |
@@ -47,7 +47,7 @@ As a result:
 1.  Download the latest `.apk` file from the [Releases](https://github.com/EldenThrone588/Rusted-Warfare-Mod-Asset-Protector-Tool___Android/releases) page or the [Itch.io](https://smallbutbigsizeofbug.itch.io/androidrusted-warfare-encryptor-tool) page.
 2.  Allow installation from "Unknown Sources" on your Android device.
 3.  Open the app and follow the in-app tutorial.
-4.  This app only supports **Android 7.0+** currently from 1.2 version.
+4.  This app only supports **Android 7.0+** currently from 1.2+ version.
 
 ### 📜 Changelog
 **Version 1.2.51 (Latest)**
